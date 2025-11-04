@@ -1,0 +1,2 @@
+# secureledger-logo
+SecureLedger (SLDG)
